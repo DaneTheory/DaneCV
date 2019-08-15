@@ -1,0 +1,9 @@
+{
+  "name": "danecv",
+  "version": "1.0.0",
+  "description": "Branden Dane: Creative, Senior Software Engineer.",
+  "main": "index.js",
+  "author": "Branden Dane",
+  "license": "MIT",
+  "private": false
+}
